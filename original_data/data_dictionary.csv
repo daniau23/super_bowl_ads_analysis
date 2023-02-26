@@ -1,0 +1,19 @@
+Field,Description
+Year,"Year the spot aired, according to superbowl-ads.com"
+Brand,Brand of advertiser
+Superbowl Ads Link,Link to superbowl-ads.com entry for this ad
+YouTube Link,"Link to a YouTube video for this ad (if this field is blank, it means no YouTube video was found)"
+Funny,"Was it trying to be funny? Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are marked TRUE. Anything serious or dramatic is marked FALSE."
+Shows Product Quickly,"Did it show the product right away? Can you tell what is being advertised within the first 10 seconds of the commercial? If you can see the product or brand name on the screen, that counts."
+Patriotic,"Was it patriotic? Did the commercial make a patriotic appeal, either clear or subtle, or include American imagery? Any glimpses of an American flag or the words ""America"" or ""United States"" counted, as did references to the armed forces, manufacturing and farming."
+Celebrity,"Did it feature a celebrity? If we saw a celebrity we recognized, we checked this one off."
+Danger,"Did it involve danger? Did we see any violence, threats of violence, injuries, fighting or guns? Any allusions to death or hokey injuries also counted here."
+Animals,Did it include animals? Did an animal — either real or computer-generated — show up at any point in the ad? Even one-frame appearances counted.
+Uses Sex,"Did it use sex to sell its product? We counted any subtle or overt suggestions of sex, sexuality, sex appeal or nudity."
+Length,"Runtime for the ad, in seconds"
+Estimated Cost,"Estimated cost of the TV spot for the ad, in millions of dollars, based on length and the cost of a 30 second ad that year, according to gobankingrates.com"
+YouTube Views,YouTube view count as of 2022-01-11 for the video in the link provided
+YouTube Likes,YouTube likes as of 2022-01-11 for the video in the link provided
+TV Viewers,"Millions of television viewers for the corresponding Super Bowl, according to sportsmediawatch.com"
+,
+,

@@ -1,0 +1,130 @@
+,brand,year,Total runtime of ads in minutes
+0,Bud Light,2000,1.0
+1,Bud Light,2001,1.5
+2,Bud Light,2002,2.0
+3,Bud Light,2003,3.0
+4,Bud Light,2004,2.5
+5,Bud Light,2005,1.0
+6,Bud Light,2006,1.0
+7,Bud Light,2007,2.5
+8,Bud Light,2008,3.5
+9,Bud Light,2009,1.0
+10,Bud Light,2010,1.75
+11,Bud Light,2011,0.5
+12,Bud Light,2012,1.5
+13,Bud Light,2013,1.0
+14,Bud Light,2014,1.5
+15,Bud Light,2018,1.75
+16,Bud Light,2019,2.5
+17,Bud Light,2020,1.0
+18,Bud Light,2021,2.0
+19,Budweiser,2000,3.0
+20,Budweiser,2001,1.0
+21,Budweiser,2002,2.0
+22,Budweiser,2003,1.5
+23,Budweiser,2004,2.0
+24,Budweiser,2006,1.5
+25,Budweiser,2007,2.5
+26,Budweiser,2008,1.0
+27,Budweiser,2009,1.5
+28,Budweiser,2010,1.0
+29,Budweiser,2012,2.0
+30,Budweiser,2013,2.25
+31,Budweiser,2014,1.0
+32,Budweiser,2015,1.5
+33,Budweiser,2016,1.0
+34,Budweiser,2017,1.0
+35,Budweiser,2018,1.0
+36,Budweiser,2020,1.0
+37,Coca-Cola,2007,2.0
+38,Coca-Cola,2008,2.0
+39,Coca-Cola,2009,3.0
+40,Coca-Cola,2011,2.0
+41,Coca-Cola,2012,2.0
+42,Coca-Cola,2014,2.0
+43,Coca-Cola,2015,1.0
+44,Coca-Cola,2016,1.0
+45,Coca-Cola,2018,2.0
+46,Coca-Cola,2019,1.0
+47,Coca-Cola,2020,1.0
+48,Doritos,2001,0.5
+49,Doritos,2007,1.0
+50,Doritos,2008,0.5
+51,Doritos,2009,1.5
+52,Doritos,2010,1.5
+53,Doritos,2011,0.5
+54,Doritos,2012,1.0
+55,Doritos,2013,1.0
+56,Doritos,2014,1.0
+57,Doritos,2015,1.0
+58,Doritos,2016,1.0
+59,Doritos,2018,1.0
+60,Doritos,2019,1.0
+61,Doritos,2020,1.0
+62,Doritos,2021,1.0
+63,E-Trade,2000,1.0
+64,E-Trade,2001,1.0
+65,E-Trade,2002,0.5
+66,E-Trade,2007,0.5
+67,E-Trade,2009,0.5
+68,E-Trade,2010,1.25
+69,E-Trade,2012,0.5
+70,E-Trade,2013,0.5
+71,E-Trade,2018,0.5
+72,E-Trade,2021,0.5
+73,Hyundai,2008,0.5
+74,Hyundai,2009,1.0
+75,Hyundai,2010,1.0
+76,Hyundai,2011,2.0
+77,Hyundai,2012,0.5
+78,Hyundai,2013,3.25
+79,Hyundai,2014,1.0
+80,Hyundai,2016,2.25
+81,Hyundai,2017,1.5
+82,Hyundai,2018,1.0
+83,Hyundai,2019,1.0
+84,Hyundai,2020,1.0
+85,Kia,2010,1.0
+86,Kia,2011,1.0
+87,Kia,2012,1.5
+88,Kia,2013,1.5
+89,Kia,2014,1.5
+90,Kia,2015,1.25
+91,Kia,2016,1.25
+92,Kia,2017,1.25
+93,Kia,2018,1.0
+94,Kia,2019,0.5
+95,Kia,2020,1.0
+96,NFL,2003,1.0
+97,NFL,2010,1.0
+98,NFL,2012,1.0
+99,NFL,2016,3.0
+100,NFL,2017,1.5
+101,NFL,2018,1.0
+102,NFL,2019,2.0
+103,NFL,2020,2.8333333333333335
+104,Pepsi,2001,2.75
+105,Pepsi,2002,1.5
+106,Pepsi,2004,1.25
+107,Pepsi,2005,2.75
+108,Pepsi,2006,1.5
+109,Pepsi,2008,1.0
+110,Pepsi,2009,1.5
+111,Pepsi,2011,0.5
+112,Pepsi,2012,1.0
+113,Pepsi,2013,0.75
+114,Pepsi,2015,0.5
+115,Pepsi,2016,0.5
+116,Pepsi,2018,1.0
+117,Pepsi,2019,1.5
+118,Pepsi,2020,0.5
+119,Toyota,2004,0.5
+120,Toyota,2007,0.5
+121,Toyota,2012,1.0
+122,Toyota,2014,0.5
+123,Toyota,2015,1.0
+124,Toyota,2016,1.5
+125,Toyota,2018,2.0
+126,Toyota,2019,1.0
+127,Toyota,2020,1.0
+128,Toyota,2021,1.0
