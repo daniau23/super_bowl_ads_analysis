@@ -27,5 +27,5 @@ Using Python laid the foundation for Microsoft PowerBI visualisations which coul
 
 ### **Conclusion**
 
-- From the observations and taking into account of Youtube likes and views, Doritos is the most successful among the rest as the estimated cost of running its ads is relative low compared to the top spender like Budweiser, Bud Light & Coca-Cola whose. 
+- From the observations and taking into account of Youtube likes and views, Doritos is the most successful among the rest as the estimated cost of running its ads is relatively low compared to the top spender like Budweiser, Bud Light & Coca-Cola whose. 
 - Investors could make a solid profit with minimum cost on Doritos.
